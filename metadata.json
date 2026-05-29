@@ -1,0 +1,6 @@
+{
+  "name": "Worklynk",
+  "description": "A gorgeous, fully-interactive landing page for Worklynk, a workflow automation platform. Build powerful workflows in minutes with 100+ integrations and AI suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
